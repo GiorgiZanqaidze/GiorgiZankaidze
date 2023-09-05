@@ -4,7 +4,7 @@
     Hi there I'm Giorgi Zankaidze
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Georgia</h3>
 
 <br/>
  
@@ -26,7 +26,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,html,css,vscode,figma,git" />
 </div>
 
 <br/>
