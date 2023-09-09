@@ -4,7 +4,7 @@
     Hi there I'm Giorgi Zankaidze
 </h1>
 
-<h3 align="center">A passionate software developer from Georgia</h3>
+<h3 align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=900&height=70&duration=4000&lines=A+passionate+software+developer+from+Georgia!+"></h3>
 
 <br/>
  
@@ -45,7 +45,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting0!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
 <br/>
