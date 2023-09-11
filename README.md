@@ -42,7 +42,7 @@
 
 <br/><br/>
 
-<div style="margin: auto">
+<div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgiZanqaidze">
 </div>
 
