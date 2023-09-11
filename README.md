@@ -42,7 +42,7 @@
 
 <br/><br/>
 
-<div style="display: flex; justify-content: center">
+<div style="margin: auto">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgiZanqaidze">
 </div>
 
