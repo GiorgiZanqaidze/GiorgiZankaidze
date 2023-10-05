@@ -9,9 +9,7 @@
 <br/>
  
 <div align="center"> 
-  <a href="mailto:giorgizanqaidzeofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+  <p>Email: giorgizanqaidzeofficial@gmail.com</p>
   <a href="https://www.linkedin.com/in/giorgi-zankaidze-975b3a243/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -22,29 +20,16 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,react,angular,php,laravel,nodejs,express,mysql,firebase,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,git,github,linux" />
 </div>
 
+
+
 <br/>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=GiorgiZanqaidze&count_private=true&border_radius=10" alt="streak stats"/>
-  <br/>
-</div>
-
-<br/><br/>
-
-<div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgiZanqaidze">
-</div>
 
 <hr/>
 
