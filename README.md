@@ -4,8 +4,6 @@
     Hi there I'm Giorgi Zankaidze
 </h1>
 
-<h3 align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=900&height=70&duration=4000&lines=A+passionate+software+developer+from+Georgia!+"></h3>
-
 <br/>
  
 <div align="center"> 
@@ -26,15 +24,3 @@
     <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,react,angular,php,laravel,nodejs,express,mysql,firebase,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,git,github,linux" />
 </div>
-
-
-
-<br/>
-
-<hr/>
-
-<div>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</div>
-
-<br/>
