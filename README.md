@@ -8,7 +8,7 @@
 
 <hr/>
  
-### Technologies and Tools
+### Technologies And Tools I Use
 - JavaScript
 - TypeScript
 - Angular
