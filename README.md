@@ -7,17 +7,3 @@
 </div>
 
 <hr/>
- 
-### Technologies And Tools I Use
-- JavaScript
-- TypeScript
-- Angular
-- React
-- Vue.js
-- PHP
-- Laravel
-- Node.js
-- Express
-- MySQL
-- MongoDB
-
